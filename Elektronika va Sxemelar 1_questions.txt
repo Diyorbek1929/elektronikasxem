@@ -1,0 +1,585 @@
+
+Elektr zanjirida induktiv g‘altak qaysi harf bilan belgilanadi?
+====
+#L
+====
+C
+====
+R
+====
+U
+
++++++
+
+Elektr zanjirida tok manbai qaysi harf bilan belgilanadi?
+====
+#J
+====
+E
+====
+C
+====
+R
+
++++++
+
+Elektr zanjirida tok kuchi qaysi harf bilan ifodalanadi?
+====
+#I
+====
+U
+====
+F
+====
+R
+
++++++
+
+Elektr zanjirida kuchlanish qaysi harf bilan ifodalanadi?
+====
+#U
+====
+I
+====
+R
+====
+L
+
++++++
+
+Elektr zanjirida aktiv qarshilik qaysi harf bilan belgilanadi?
+====
+#R
+====
+U
+====
+I
+====
+C
+
++++++
+
+Elektr zanjirida kondensator qaysi harf bilan belgilanadi?
+====
+#C
+====
+L
+====
+R
+====
+U
+
++++++
+Quyida keltirilgan manbalardan qaysi biri o‘zgaruvchan elektr tok manbai hisoblanadi.
+====
+#~220 V manba
+====
+akkumulyator
+====
+galvanik element
+====
+fotoelement
+
++++++
+
+O‘zgaruvchan tokni o‘garmas tokga aylantirish uchun … foydalaniladi: 
+====
+#to‘g‘rilagichlardan
+====
+elektrodvigatellardan
+====
+isitkich qurilmalaridan
+====
+yorug‘lik qurilmalaridan
+
++++++
+
+Tok kuchining o‘lchov birligini ko‘rsating.
+====
+#Amper
+====
+Om
+====
+Vatt
+====
+Volt
+
++++++
+
+Kuchlanishning o‘lchov birligini ko‘rsating.
+====
+#Volt
+====
+Om
+====
+Vatt
+====
+Amper
+
++++++
+
+Elektr quvvatning o‘lchov birligini ko‘rsating.
+====
+#Vatt
+====
+Amper
+====
+Volt
+====
+Om
+
++++++
+
+Yuklamada iste’mol qilinadigan tokni o‘lchash uchun “Ampermetr” zanjirga qanday ulanadi?
+====
+#yuklama qarshiligiga ketma-ket
+====
+yuklama qarshiligiga parallel
+====
+yuklama qarshiligiga perpendikulyar
+====
+aralash
+
++++++
+
+Kuchlanishni o‘lchash uchun “Voltmetr” o‘chov asbobini elektr zanjiriga qanday ulash lozim?
+====
+#yuklama qarshiligiga parallel
+====
+yuklama qarshiligiga ketma-ket
+====
+yuklama qarshiligi ichiga
+====
+aralash
+
++++++
+
+Elektr zanjir bu - …
+====
+#elektr tokini o‘tkazish uchun xizmat qiladigan elementlar yig‘indisi
+====
+qurilma yoki zanjirlarni modellashtirish, o‘rganish va taxlil qilish uchun mo‘ljallangan dasturiy ta’minot
+====
+elektr toki oqib o‘tmaydigan elementlar yig‘indisi 
+====
+yorug‘lik energiyasini isiqlik energiyaga aylantiruvchi optik qurilma
+
++++++
+
+Zanjirning uch va undan ortiq shaxobchalar ulangan joyi – … deb ataladi.
+====
+#tugun
+====
+mustaqil kontur
+====
+shaxobcha
+====
+kontur
+
++++++
+
+Zanjirning, faqat bitta tok oqib o‘tadigan qismi qanday ataladi?
+====
+#shaxobcha
+====
+kontur
+====
+tugun
+====
+mustaqil kontur
+
++++++
+
+Elektr zanjiridagi aktiv quvvat P ning o‘lchov birligi qanday?
+====
+#Vatt (Vt)
+====
+Volt-Amper reaktiv (VAR)
+====
+Volt-Amper (VA)
+====
+Makrovatt
+
++++++
+
+Elektr o‘tkazgich deb …… aytiladi:
+====
+#erkin elektronlari mavjud bo‘lgan moddalarga
+====
+qattiq kristall panjarali moddalarga
+====
+neytral moddalarga
+====
+erkin fotonlari bo‘lgan moddalarga
+
++++++
+
+Tok kuchiga ta’rif  bering.
+====
+#vaqt birligi ichida  o‘tkazgichning ko‘ndalang kesimidan oqib o‘tgan elektr miqdoriga aytiladi
+====
+protonlar va neytronlar miqdoriga aytiladi
+====
+atomdagi protonlar miqdoriga aytiladi
+====
+yadrodagi elektronlar miqdoriga aytiladi
+
++++++
+
+Tok kuchini o‘lchash uchun ampermetr zanjirga quyidagicha ulanadi:
+====
+#tok kuchi o‘lchanadigan elementga ketma-ket
+====
+tok kuchi o‘lchanadigan elementga parallel
+====
+tok manbaiga parallel
+====
+aralash
+
++++++
+
+Kuchlanishni o‘lchashda voltmeter zanjirga qanday ulanadi:
+====
+#kuchlanishni o‘lchash kerak bo‘lgan elektr energiya qabul qiluvchisiga parallel
+====
+tok manbaiga ketma-ket
+====
+zanjirdagi iste’molchiga ketma-ket
+====
+aralash
+
++++++
+
+O‘tkazgichdagi tok kuchi …
+====
+#o‘tkazgich qarshiligiga teskari proparsional
+====
+o‘tkazgich qarshiligiga to‘g‘ri proparsional
+====
+o‘tkazgich kesimiga to‘g‘ri proparsional
+====
+o‘tkazgich kesimiga nisbatan nochiziqli
+
++++++
+
+Asosiy elektr energiya manbalari bu …
+====
+#issiqlik, atom va gidroelektro-stansiyalar
+====
+to‘g‘rilagichlar
+====
+issiqlik asboblari
+====
+yoritgich asboblari
+
++++++
+
+Transformatorning asosiy vazifasi quyidagicha:
+====
+#o'zgaruvchan elektr tokini, chastotasini o‘zgartirmagan holda, kuchlanishni pasaytiradi yoki oshiradi
+====
+o‘garmas tokni o‘zgaruvchan tokka aylantirib berish
+====
+o‘zgaruvchan tokni o‘zgarmas aylantirib berish
+====
+kirishdagi tokning tebranish chastotasini o‘zgartirib berish
+
++++++
+
+Elektrotexnikada diodlar foydalaniladi:
+====
+#to‘g‘rilagichlarda
+====
+isitgich asboblarida
+====
+transformatorlarda
+====
+elektro-dvigatellarda
+
++++++
+
+Signal chastotasini o‘lchaydigan asbob:
+====
+#chastotamer
+====
+ampermetr
+====
+vattmetr
+====
+voltmetr
+
++++++
+
+Elektr signallarining fazasini o‘lchaydigan asbob bu ...
+====
+#fazometr
+====
+vattmetr
+====
+chastotamer
+====
+ampermetr
+
++++++
+
+Quvvat … da o‘lchanadi.
+====
+#Vatt
+====
+Volt
+====
+Amper
+====
+Om
+
++++++
+
+Elektromagnit – bu … 
+====
+#po‘lat o‘zakli induktiv g‘altak
+====
+spiral ko‘rinishli o‘tkazgich
+====
+alyuminiy o‘tkazgichli g‘altak
+====
+spiralli g‘altak
+
++++++
+
+Manfiy ion bu – … 
+====
+#bir yoki bir nechta elektronlarni olgan atom
+====
+qo‘shimcha ionlarni olgan atom
+====
+qo‘shimcha neytronlarni olgan atom
+====
+bitta yoki bir nechta elektronlarni yo‘qotgan atom
+
++++++
+
+Musbat ion bu – …
+====
+#bir yoki bir nechta elektronlarni yo‘qotgan atom
+====
+qo‘shimcha ionlarni olgan atom
+====
+qo‘shimcha neytronlarni olgan atom
+====
+bitta yoki bir nechta elektronlarni olgan atom
+
++++++
+
+Qaysi javobda birlamchi elektr manbalar keltirilgan?
+====
+#galvanik elementlar, batareyalar, akkumulyatorlar
+====
+to‘g‘rilagichlar
+====
+impuls ta’minlovchi manbalar
+====
+kuchlanish stabilizatorlari
+
++++++
+
+Zanjirda qurilmalarning bog‘lanish usullari tasvirlangan chizmalar … deyiladi.
+====
+#sxema
+====
+grafik
+====
+eskiz
+====
+diogramma
+
++++++
+
+Elektr qarshilikning o‘lchov birligi …
+====
+#Om
+====
+Amper
+====
+Vatt
+====
+Volt
+
++++++
+
+Ossilograf bu …
+====
+#o‘lchov asbobi
+====
+kuchaytirish asbobi
+====
+yoritish asbobi
+====
+fotoelektrik asbobi
+
++++++
+
+Reaktiv qarshilikli zanjir – bu … 
+====
+#induktivlik yoki kondensatorlari bo‘lgan zanjir
+====
+istalgan o‘zgarmas tok zanjiri
+====
+rezistiv zanjiri bo‘lgan zanjir
+====
+istalgan o‘zgarmas tok yopiq zanjiri
+
++++++
+
+Kondensatorning sig‘imi … bog‘liq.
+====
+#plastinalar yuzasi va ular orasidagi masofaga
+====
+ketma-ket ulangan yuk qarshiligiga
+====
+zanjirdagi tok kuchiga
+====
+qutblardagi kuchlanishga                                                                                      
+
++++++
+
+Elektr energiyasini mexanik energiyaga aylantiruvchi qurilma … deyiladi.
+====
+#elektrodvigatel
+====
+transformator
+====
+-generator
+====
+-induktiv g‘altak
+
++++++
+
+Bitta rezistorga ikkinchisi ketma-ket ulanganda, umumiy qarshilik …
+====
+#ortadi
+====
+o‘zgarmaydi
+====
+kamayadi
+====
+0 ga teng bo‘ladi
+
++++++
+
+Zanjirdagi kuchlanishni qaysi asbob o‘lchaydi va bu asbob qanday ulanadi?
+====
+#Voltmetr, parallel
+====
+Ampermetr, ketma-ket
+====
+Ommetr, ketma-ket
+====
+Vattmetr, parallel
+
++++++
+
+Elektr zanjirning tugunidagi toklarning algebraik yig‘indisi 0 ga teng. Bu qaysi qonunga tegishli ta’rif?
+====
+#Kirxgofning birinchi qonuni
+====
+Kirxgofning ikkinchi qonuni
+====
+Om qonuni
+====
+Djoul – Lens qonuni
+
++++++
+
+O‘zbekistonda qanday chastotali o‘zgaruvchan sinusoidal tokdan foydalaniladi?
+====
+#50 Hz
+====
+60 Hz
+====
+75 Hz
+====
+100 Hz
+
++++++
+
+Qarshilikning o‘lchov birliklarini ko‘rsating.
+====
+#Om, kOm, MOm 
+====
+F, mF, mkF
+====
+V, mV, mkV
+====
+A, mA, mkA
+
++++++
+
+Sig‘im ning o‘lchov birliklarini ko‘rsating.
+====
+#F, mF, mkF
+====
+Om, kOm, Mom
+====
+V, mV, mkV
+====
+A, mA, mkA
+
++++++
+
+Tok kuchining o‘lchov birliklarini ko‘rsating.
+====
+#A, mA, mkA
+====
+F, mF, mkF
+====
+Om, kOm, Mom
+====
+V, mV, mkV
+
++++++
+
+Elektr kuchlanishining o‘lchov birliklarini ko‘rsating.
+====
+#V, mV, mkV
+====
+A, mA, mkA
+====
+F, mF, mkF
+====
+Om, kOm, Mom
+
++++++
+
+Induktivlikning o‘lchov birliklarini ko‘rsating.
+====
+#G, mG, mkG
+====
+A, mA, mkA
+====
+F, mF, mkF
+====
+Om, kOm, Mom
+
++++++
+
+Elektr zanjirda tok kuchining o‘lchov birligi nimada o‘lchanadi?
+====
+#Amper
+====
+Volt
+====
+Vatt
+====
+Om
+
++++++
+
+Tomas Edison – dunyodagi birinchi … yaratuvchisi.
+====
+#cho‘g‘lanma lampalarining
+====
+atom elektro-stansiyalarining
+====
+yarimo‘tkazgichli diodning
+====
+tranzistorning
